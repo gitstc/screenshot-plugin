@@ -1,0 +1,17 @@
+{
+  "name": "org-stc-fbscreenshot",
+  "version": "0.0.1",
+  "description": "Screenshot Plugin",
+  "repository": {
+    
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova"
+  ],
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "author": "TSU"
+}
